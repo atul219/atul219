@@ -10,6 +10,7 @@ CatSci Ltd - Provides advanced chemical synthesis, analytical testing, and proce
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square&logo=gnu-bash&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -26,7 +27,13 @@ CatSci Ltd - Provides advanced chemical synthesis, analytical testing, and proce
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+## Open Source Projects 🎯
+| 🎯 Projects | 🔧 Tools Used |
+|-------------|----------------|
+| [NetworkSecurity - End-to-End Network Security Analysis Project](https://github.com/atul219/NetworkSecurity.git) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square&logo=gnu-bash&logoColor=white) |
+
+| [End-to-End Machine Learning Project](https://github.com/atul219/machine-learning-project.git) | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ## Education & Certifications 🎓
 MSc Artificial Intelligence - Queen Mary University of London, UK
@@ -34,10 +41,7 @@ MSc Artificial Intelligence - Queen Mary University of London, UK
 ## Recent Certifications 📜
 Complete Data Science, Machine Learning, DL, NLP Bootcamp
 
-## Open Source Projects 🎯
-[NetworkSecurity - End-to-End Network Security Analysis Project](https://github.com/atul219/NetworkSecurity.git)
 
-[End-to-End Machine Learning Project](https://github.com/atul219/machine-learning-project.git)
 <!--
 **atul219/atul219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
