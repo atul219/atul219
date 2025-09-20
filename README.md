@@ -32,8 +32,6 @@ MSc Artificial Intelligence - Queen Mary University of London, UK
 
 ## Recent Certifications 📜
 Complete Data Science, Machine Learning, DL, NLP Bootcamp
-Deep Learning with PyTorch: Neural Style Transfer
-Building and Deploying Deep Learning Applications with TensorFlow
 
 
 <!--
