@@ -42,7 +42,19 @@ MSc Artificial Intelligence - Queen Mary University of London, UK
 ## Recent Certifications 📜
 Complete Data Science, Machine Learning, DL, NLP Bootcamp
 
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atulyadav219&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=24292e&icon_color=586069&text_color=24292e" alt="Atul's GitHub Stats" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulyadav219&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=24292e" alt="Top Languages" />
+</div>
+
+## 🤝 Where to find me
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/atul219)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/atul219)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atulyadav219@gmail.com)
 <!--
 **atul219/atul219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
