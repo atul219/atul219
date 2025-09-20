@@ -35,8 +35,8 @@ MSc Artificial Intelligence - Queen Mary University of London, UK
 Complete Data Science, Machine Learning, DL, NLP Bootcamp
 
 ## Open Source Projects 🎯
-![NetworkSecurity - End-to-End Network Security Analysis Project](https://github.com/atul219/NetworkSecurity.git)
-![End-to-End Machine Learning Project](https://github.com/atul219/machine-learning-project.git) |
+[NetworkSecurity - End-to-End Network Security Analysis Project](https://github.com/atul219/NetworkSecurity.git)
+[End-to-End Machine Learning Project](https://github.com/atul219/machine-learning-project.git)
 <!--
 **atul219/atul219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
