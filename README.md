@@ -44,11 +44,11 @@ Complete Data Science, Machine Learning, DL, NLP Bootcamp
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atulyadav219&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=24292e&icon_color=586069&text_color=24292e" alt="Atul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atul219&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=24292e&icon_color=586069&text_color=24292e" alt="Atul's GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulyadav219&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=24292e" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul219&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=24292e" alt="Top Languages" />
 </div>
 
 ## 🤝 Where to find me
