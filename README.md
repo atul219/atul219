@@ -29,7 +29,6 @@ CatSci Ltd - Provides advanced chemical synthesis, analytical testing, and proce
 
 ## Education & Certifications 
 🎓 MSc Artificial Intelligence - Queen Mary University of London, UK
-🎓 BTech Computer Science - JECRC University, India
 
 ## Recent Certifications 📜
 Complete Data Science, Machine Learning, DL, NLP Bootcamp
