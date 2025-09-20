@@ -31,8 +31,7 @@ CatSci Ltd - Provides advanced chemical synthesis, analytical testing, and proce
 ## Open Source Projects 🎯
 | 🎯 Projects | 🔧 Tools Used |
 |-------------|----------------|
-| [NetworkSecurity - End-to-End Network Security Analysis Project](https://github.com/atul219/NetworkSecurity.git) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square&logo=gnu-bash&logoColor=white) |
-
+| [NetworkSecurity - End-to-End Network Security Analysis Project](https://github.com/atul219/NetworkSecurity.git) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square&logo=gnu-bash&logoColor=white) |
 | [End-to-End Machine Learning Project](https://github.com/atul219/machine-learning-project.git) | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ## Education & Certifications 🎓
