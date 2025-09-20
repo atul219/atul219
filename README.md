@@ -1,5 +1,5 @@
 ## Hi there, Nice to see you 👋
-I am Atul, currently based in :flag_united_kingdom:
+I am Atul, currently based in GB :flag_united_kingdom:
 
 ## Things I code with
 
