@@ -35,12 +35,6 @@ Complete Data Science, Machine Learning, DL, NLP Bootcamp
 Deep Learning with PyTorch: Neural Style Transfer
 Building and Deploying Deep Learning Applications with TensorFlow
 
-🌤️ Welcome to 🇬🇧 United Kingdom!
-Currently, the weather is ☁️ cloudy, 12°C
-Today, the sun rises at 07:15 and sets at 16:45.
-
-Living the data science dream in Cardiff! 🏴󠁧󠁢󠁷󠁬󠁳󠁿
-
 
 <!--
 **atul219/atul219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
