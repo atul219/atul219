@@ -26,13 +26,14 @@ CatSci Ltd - Provides advanced chemical synthesis, analytical testing, and proce
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
+![CatBoost](https://img.shields.io/badge/-CatBoost-FFCC00?style=flat-square&logo=catboost&logoColor=black)
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
 ## Open Source Projects 🎯
 | 🎯 Projects | 🔧 Tools Used |
 |-------------|----------------|
-| [NetworkSecurity - End-to-End Network Security Analysis Project](https://github.com/atul219/NetworkSecurity.git) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square&logo=gnu-bash&logoColor=white) |
-| [End-to-End Machine Learning Project](https://github.com/atul219/machine-learning-project.git) | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [NetworkSecurity - End-to-End Network Security Analysis Project](https://github.com/atul219/NetworkSecurity.git) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ! ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white) [Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white) |
+| [End-to-End Machine Learning Project](https://github.com/atul219/machine-learning-project.git) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![CatBoost](https://img.shields.io/badge/-CatBoost-FFCC00?style=flat-square&logo=catboost&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
 
 ## Education & Certifications 🎓
 MSc Artificial Intelligence - Queen Mary University of London, UK
