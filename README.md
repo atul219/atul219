@@ -27,12 +27,11 @@ Data Scientist @ CatSci Ltd (Mar 2022 - Present)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-🎓 Education & Certifications
+## Education & Certifications 
 🎓 MSc Artificial Intelligence - Queen Mary University of London (2:1)
 🎓 BTech Computer Science - JECRC University
 
-📜 Recent Certifications:
-
+## Recent Certifications 📜
 Complete Data Science, Machine Learning, DL, NLP Bootcamp
 Deep Learning with PyTorch: Neural Style Transfer
 Building and Deploying Deep Learning Applications with TensorFlow
