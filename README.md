@@ -6,7 +6,7 @@ I'm Atul, a Data Scientist currently living in 🇬🇧 UK.
 ## Currently working at 🏢
 CatSci Ltd - Provides advanced chemical synthesis, analytical testing, and process optimisation solutions to biotechnology and pharmaceutical clients worldwide.
 
-## Things I code with 🔧
+## My tools 🔧
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
