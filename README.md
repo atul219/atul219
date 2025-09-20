@@ -1,7 +1,7 @@
 ## Hi there, Nice to see you 👋
 
 Welcome to my page  
-I'm Atul, Data Scientist from 🇮🇳 India, currently living in 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Cardiff, UK.
+I'm Atul, Data Scientist currently living in 🇬🇧 UK.
 
 ## Things I code with
 
