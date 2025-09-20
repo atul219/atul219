@@ -26,6 +26,7 @@ CatSci Ltd - Provides advanced chemical synthesis, analytical testing, and proce
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ## Education & Certifications 🎓
 MSc Artificial Intelligence - Queen Mary University of London, UK
@@ -34,12 +35,10 @@ MSc Artificial Intelligence - Queen Mary University of London, UK
 Complete Data Science, Machine Learning, DL, NLP Bootcamp
 
 ## Open Source Projects
-| 🎯 Projects | ⭐ Stars | 🍴 Forks | 🐛 Issues | 🔔 Pull requests |
+| 🎯 Projects |
 |-------------|----------|----------|-----------|------------------|
-| [Oligonucleotide Yield Prediction](https://github.com/atulyadav219/oligonucleotide-yield-prediction) | ![stars](https://img.shields.io/github/stars/atulyadav219/oligonucleotide-yield-prediction?style=flat-square&labelColor=343b41) | ![forks](https://img.shields.io/github/forks/atulyadav219/oligonucleotide-yield-prediction?style=flat-square&labelColor=343b41) | ![issues](https://img.shields.io/github/issues/atulyadav219/oligonucleotide-yield-prediction?style=flat-square&labelColor=343b41) | ![pull requests](https://img.shields.io/github/issues-pr/atulyadav219/oligonucleotide-yield-prediction?style=flat-square&labelColor=343b41) |
-| [ML Governance Platform](https://github.com/atulyadav219/ml-governance-platform) | ![stars](https://img.shields.io/github/stars/atulyadav219/ml-governance-platform?style=flat-square&labelColor=343b41) | ![forks](https://img.shields.io/github/forks/atulyadav219/ml-governance-platform?style=flat-square&labelColor=343b41) | ![issues](https://img.shields.io/github/issues/atulyadav219/ml-governance-platform?style=flat-square&labelColor=343b41) | ![pull requests](https://img.shields.io/github/issues-pr/atulyadav219/ml-governance-platform?style=flat-square&labelColor=343b41) |
-| [Medical Image Analysis with Bias Detection](https://github.com/atulyadav219/medical-image-bias-detection) | ![stars](https://img.shields.io/github/stars/atulyadav219/medical-image-bias-detection?style=flat-square&labelColor=343b41) | ![forks](https://img.shields.io/github/forks/atulyadav219/medical-image-bias-detection?style=flat-square&labelColor=343b41) | ![issues](https://img.shields.io/github/issues/atulyadav219/medical-image-bias-detection?style=flat-square&labelColor=343b41) | ![pull requests](https://img.shields.io/github/issues-pr/atulyadav219/medical-image-bias-detection?style=flat-square&labelColor=343b41) |
-| [Business Intelligence Dashboard](https://github.com/atulyadav219/bi-dashboard) | ![stars](https://img.shields.io/github/stars/atulyadav219/bi-dashboard?style=flat-square&labelColor=343b41) | ![forks](https://img.shields.io/github/forks/atulyadav219/bi-dashboard?style=flat-square&labelColor=343b41) | ![issues](https://img.shields.io/github/issues/atulyadav219/bi-dashboard?style=flat-square&labelColor=343b41) | ![pull requests](https://img.shields.io/github/issues-pr/atulyadav219/bi-dashboard?style=flat-square&labelColor=343b41) |
+| [NetworkSecurity - End-to-End Network Security Analysis Project](https://github.com/atul219/NetworkSecurity.git) |
+| [End-to-End Machine Learning Project]([https://github.com/atulyadav219/ml-governance-platform](https://github.com/atul219/machine-learning-project.git)) |
 <!--
 **atul219/atul219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
