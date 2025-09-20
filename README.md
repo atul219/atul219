@@ -33,6 +33,7 @@ MSc Artificial Intelligence - Queen Mary University of London, UK
 ## Recent Certifications 📜
 Complete Data Science, Machine Learning, DL, NLP Bootcamp
 
+## Open Source Projects
 | 🎯 Projects | ⭐ Stars | 🍴 Forks | 🐛 Issues | 🔔 Pull requests |
 |-------------|----------|----------|-----------|------------------|
 | [Oligonucleotide Yield Prediction](https://github.com/atulyadav219/oligonucleotide-yield-prediction) | ![stars](https://img.shields.io/github/stars/atulyadav219/oligonucleotide-yield-prediction?style=flat-square&labelColor=343b41) | ![forks](https://img.shields.io/github/forks/atulyadav219/oligonucleotide-yield-prediction?style=flat-square&labelColor=343b41) | ![issues](https://img.shields.io/github/issues/atulyadav219/oligonucleotide-yield-prediction?style=flat-square&labelColor=343b41) | ![pull requests](https://img.shields.io/github/issues-pr/atulyadav219/oligonucleotide-yield-prediction?style=flat-square&labelColor=343b41) |
