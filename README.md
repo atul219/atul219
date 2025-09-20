@@ -28,6 +28,7 @@ CatSci Ltd - Provides advanced chemical synthesis, analytical testing, and proce
 ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/-CatBoost-FFCC00?style=flat-square&logo=catboost&logoColor=black)
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![DagsHub](https://img.shields.io/badge/-DagsHub-2D72D2?style=flat-square&logoColor=white)
 
 ## Open Source Projects 🎯
 | 🎯 Projects | 🔧 Tools Used |
