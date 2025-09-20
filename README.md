@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Atul, currently based in 🇬🇧
 
 <!--
 **atul219/atul219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
