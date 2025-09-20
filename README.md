@@ -27,8 +27,8 @@ CatSci Ltd - Provides advanced chemical synthesis, analytical testing, and proce
 ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-## Education & Certifications 
-🎓 MSc Artificial Intelligence - Queen Mary University of London, UK
+## Education & Certifications 🎓
+MSc Artificial Intelligence - Queen Mary University of London, UK
 
 ## Recent Certifications 📜
 Complete Data Science, Machine Learning, DL, NLP Bootcamp
