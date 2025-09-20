@@ -4,7 +4,7 @@ Welcome to my page
 I'm Atul, a Data Scientist currently living in 🇬🇧 UK.
 
 ## Currently working at 🏢
-Data Scientist @ CatSci Ltd (Mar 2022 - Present)
+CatSci Ltd - Provides advanced chemical synthesis, analytical testing, and process optimisation solutions to biotechnology and pharmaceutical clients worldwide.
 
 ## Things I code with
 
