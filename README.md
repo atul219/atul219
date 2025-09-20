@@ -1,5 +1,5 @@
 ## Hi there, Nice to see you 👋
-I am Atul, currently based in 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+I am Atul, currently based in 🇬🇧
 
 ## Things I code with
 
